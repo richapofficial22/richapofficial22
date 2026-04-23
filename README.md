@@ -1,6 +1,6 @@
 ##  
 # Hi there 👋, I'm Richa Prabhakar
-## AWS Certified Cloud Practitioner | Cloud Engineer in Progress | Bengaluru
+## AWS Certified Cloud Practitioner | Cloud Engineer in Progress | Career Switch | Bengaluru
 ### What I'm building
 - Static website on AWS S3 + CloudFront
 - Bash sysadmin toolkit (disk monitor, log rotator, health check scripts)
