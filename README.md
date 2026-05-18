@@ -4,8 +4,8 @@
 ### What I'm building
 - Static website on AWS S3 + CloudFront
 - Bash sysadmin toolkit (disk monitor, log rotator, health check scripts)
-- IAM policy automation with Terraform
 - Linux learning journal with documented exercises
+- AWS-EC2-Terraform-Nginx-Deploy
 ### Certifications
 - AWS Certified Cloud Practitioner (April 2026)
 Credential: 4c140c1e9cae439b89b1f35a03d48ac1
