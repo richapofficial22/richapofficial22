@@ -1,35 +1,41 @@
 ##  
-# Hi there 👋, I'm Richa Prabhakar
-## AWS Certified Cloud Practitioner | Cloud Engineer in Progress | Career Switch | Bengaluru
+## Hi there 👋, I'm Richa Prabhakar
+## Aspiring Data Analyst | SQL | Python | Power BI | Business Analytics
+### What I'm learning
+- SQL: Data querying, joins, aggregations and data analysis
+- Python: Python fundamentals, data structures, NumPy and Pandas
+- Power BI: Data visualization, dashboards and reporting
+- Business Analytics: Understanding business problems and translating data into actionable insights
+- Data Projects: Applying analytical skills to real-world business problems
 ### What I'm building
-- Static website on AWS S3 + CloudFront
-- Bash sysadmin toolkit (disk monitor, log rotator, health check scripts)
-- Linux learning journal with documented exercises
-- AWS-EC2-Terraform-Nginx-Deploy
+My focus is on developing practical analytical skills through hands-on projects.
+Projects will include:
+- SQL-based data analysis
+- Python data cleaning and exploratory data analysis
+- Interactive Power BI dashboards
+- End-to-end business analytics projects
+
+I'll be documenting my learning process, project development and key takeaways here.
+### Technical Background
+- B.Tech in Computer Science Engineering (AKGEC, 2018)
+- AWS Certified Cloud Practitioner
+- Familiarity with AWS, Linux, Bash and Git
+### Professional Background
+7 years of experience in Business Development at Fuhaar Infraventures Pvt. Ltd.
+
+Experience includes:
+- Client pipeline management
+- Business development
+- Deal closures
+- Revenue target management
+- Client relationship management
+
 ### Certifications
 - AWS Certified Cloud Practitioner (April 2026)
 Credential: 4c140c1e9cae439b89b1f35a03d48ac1
-### Tech Stack
-AWS (EC2, S3, IAM, VPC, CloudWatch, Lambda) | Linux | Bash | Git | Terraform (learning)
-### Background
-technical
-B.Tech CSE (AKGEC, 2018) + 7 years in business development 
+
 ### Connect
 - LinkedIn: https://www.linkedin.com/in/richa-prabhakar-cloud/  
 - Email: richaprabhakarofficial22@gmail.com
-## Location: Bengaluru, India | Open to: Cloud Engineer | Cloud Support | DevOps Roles
 
-<!--
-**richapofficial22/richapofficial22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently learning. Building projects. Solving business problems with data.
