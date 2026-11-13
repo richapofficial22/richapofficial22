@@ -35,7 +35,7 @@ Experience includes:
 Credential: 4c140c1e9cae439b89b1f35a03d48ac1
 
 ### Connect
-- LinkedIn: https://www.linkedin.com/in/richa-prabhakar-cloud/  
+- LinkedIn: https://www.linkedin.com/in/richa-prabhakar-da/  
 - Email: richaprabhakarofficial22@gmail.com
 
 #### Currently learning. Building projects. Solving business problems with data.
